@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm JY 👋
 
-<!--
-**jyliew1912/jyliew1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Currently learning C++ and algorithms  
+📚 Exploring different areas in software development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+I am a CS student building my foundation in:
+
+- Data Structures
+- Algorithms
+- Problem Solving
+- Basic Software Development
+
+Currently focusing on improving my coding skills and building small projects.
+
+---
+
+## 🛠 Skills
+
+- C++
+- Basic Git
+- Algorithm Practice (DP, recursion, problem solving)
+
+---
+
+## 🚀 Current Goals (2026)
+
+- Build 2–3 solid personal projects
+- Improve GitHub project structure
+- Explore backend / automation / system programming
+
+---
+
+## 📌 Featured Projects
+
+(Coming soon 🚧)
+
+---
+
+## 📫 Contact
+
+- Email: (your school email if you want)
