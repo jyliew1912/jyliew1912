@@ -35,12 +35,11 @@
 </div>
 
 
-## 📊 GitHub Stats
+## 📊 Languages in my personal repos
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jyliew1912&show_icons=true&bg_color=FFF5F7&title_color=D86C8A&text_color=5B3A44&icon_color=D86C8A&border_color=F4A6B7&include_all_commits=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyliew1912&layout=compact&bg_color=FFF5F7&title_color=D86C8A&text_color=5B3A44&icon_color=D86C8A&border_color=F4A6B7&langs_count=8" alt="Top languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jyliew1912&layout=compact&card_width=480&title=Most+Used+Languages&bg_color=FFFFFF&title_color=64748B&text_color=64748B&icon_color=7FCDBB&border_color=E2E8F0&langs_count=8&cache_bust=1" alt="Top languages" />
 
 </div>
 
