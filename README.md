@@ -35,15 +35,6 @@
 </div>
 
 
-## 📊 Languages in my personal repos
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jyliew1912&layout=compact&card_width=480&title=Most+Used+Languages&bg_color=FFFFFF&title_color=64748B&text_color=64748B&icon_color=7FCDBB&border_color=E2E8F0&langs_count=8&cache_bust=1" alt="Top languages" />
-
-</div>
-
-
 ## 🌱 Currently Working On
 
 - 🛡️ **Final Year Project**: CVE research of the O-RAN Software Community RIC (I-release)
