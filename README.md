@@ -1,19 +1,18 @@
 <div align="center">
 
-# Hi, I'm Jing Yuan (劉靖媛) 👋
+# Hi, I'm Jing Yuan 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=560&lines=Computer+Science+%40+National+Chung+Cheng+University;I+build+compilers%2C+network+simulators+%26+AI+tools;Applying+for+a+Master%27s+in+Computer+Science" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=560&lines=National+Chung+Cheng+University;Year+4+Computer+Science+Student;Systems+%C2%B7+Networking+%C2%B7+Applied+AI" alt="Typing intro" />
 
 <br/>
 
-📍 Taiwan &nbsp;·&nbsp; 🎓 CCU Computer Science &nbsp;·&nbsp; 🔭 Systems · Networking · Applied AI
+🏫 Studying in Taiwan &nbsp;·&nbsp; 📍 From Malaysia &nbsp;·&nbsp; 🎓 CCU Computer Science
 
-[![Website](https://img.shields.io/badge/Website-jyliew1912.github.io-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white)](https://jyliew1912.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyliew1912@alum.ccu.edu.tw)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90_Website-64748B?style=for-the-badge)](https://jyliew1912.github.io) &nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-7FCDBB?style=for-the-badge)](mailto:jyliew1912@alum.ccu.edu.tw)
 
 </div>
 
----
 
 ## 🚀 Featured Projects
 
@@ -26,7 +25,6 @@
 | ✈️ [**flight-radar**](https://github.com/jyliew1912/flight-radar) | Automated flight price aggregator and analytics dashboard | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) |
 | 👾 [**pacman-c**](https://github.com/jyliew1912/pacman-c) | Terminal Pac-Man engine with dynamic memory management | ![C11](https://img.shields.io/badge/C11-A8B9CC?logo=c&logoColor=black) |
 
----
 
 ## 🧰 Tech Stack
 
@@ -36,24 +34,23 @@
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jyliew1912&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyliew1912&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jyliew1912&show_icons=true&bg_color=FFF5F7&title_color=D86C8A&text_color=5B3A44&icon_color=D86C8A&border_color=F4A6B7&include_all_commits=true" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyliew1912&layout=compact&bg_color=FFF5F7&title_color=D86C8A&text_color=5B3A44&icon_color=D86C8A&border_color=F4A6B7&langs_count=8" alt="Top languages" />
 
 </div>
 
----
 
-## 🔭 Currently
+## 🌱 Currently Working On
 
-- 🔧 Exploring systems programming and networking
-- 🤖 Building applied AI tools
-- 🎓 Preparing Master's applications in Computer Science
+- 🛡️ **Final Year Project**: CVE research of the O-RAN Software Community RIC (I-release)
+- ⚡ **Software Optimization**: profiling and tuning with Intel VTune
+- 🖼️ **Image Processing**: Python
+- 🔍 **Pattern Recognition**: MATLAB
 
 <div align="center">
 
